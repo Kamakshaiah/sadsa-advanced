@@ -1,6 +1,6 @@
-# 📊 Tkinter Data Analytics App  
+# 📊 Software Appliation for Data Science and Analytics (SADSA) Advanced Application  
 
-**Tkinter Data Analytics App** is a Python-based GUI tool for performing a wide range of statistical and data analysis tasks without writing code. Built with **Tkinter, Pandas, Matplotlib, Seaborn**, and **Scikit-learn**, this app allows users to analyze datasets, visualize results, and generate reports in a user-friendly environment.  
+**SADSA** is a Python-based GUI tool for performing a wide range of statistical and data analysis tasks without writing code. Built with **Tkinter, Pandas, Matplotlib, Seaborn**, and **Scikit-learn**, this app allows users to analyze datasets, visualize results, and generate reports in a user-friendly environment.  
 
 ---
 
@@ -56,25 +56,6 @@
 - **Pandas** (DataFrame management)  
 - **Matplotlib & Seaborn** (Visualizations)  
 - **Scikit-learn** (Advanced statistical computations like Canonical Correlation)  
-
----
-
-## 💻 Installation  
-
-1. Clone the repository:  
-```bash  
-git clone https://github.com/yourusername/tkinter-data-analytics-app.git  
-```  
-
-2. Install dependencies:  
-```bash  
-pip install pandas matplotlib seaborn scikit-learn  
-```  
-
-3. Run the app:  
-```bash  
-python main.py  
-```  
 
 ---
 
