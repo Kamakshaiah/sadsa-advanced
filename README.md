@@ -1,6 +1,6 @@
 # 📊 Software Appliation for Data Science and Analytics (SADSA) Advanced Application  
 
-**SADSA** is a Python-based GUI tool for performing a wide range of statistical and data analysis tasks without writing code. Built with **Tkinter, Pandas, Matplotlib, Seaborn**, and **Scikit-learn**, this app allows users to analyze datasets, visualize results, and generate reports in a user-friendly environment.  
+**SADSA** is a Python-based GUI tool for performing a wide range of statistical and data analysis tasks without writing code. This app allows users to analyze datasets, visualize results, and generate reports in a user-friendly environment.  
 
 ---
 
@@ -46,16 +46,6 @@
   - **Text reports (.txt)**.  
   - **Graphs (.png)**.  
 - User-friendly messages and alerts for selections and errors.  
-
----
-
-## 🛠 Technologies Used  
-
-- **Python 3.x**  
-- **Tkinter** (GUI)  
-- **Pandas** (DataFrame management)  
-- **Matplotlib & Seaborn** (Visualizations)  
-- **Scikit-learn** (Advanced statistical computations like Canonical Correlation)  
 
 ---
 
