@@ -56,7 +56,41 @@
 - **Decision Trees**
 - **Neural Networks**
 - **Random Forests**
- 
+
+### 🧠 **Natural Language Processing (NLP) Functionalities**
+- **Text Preprocessing**: Tokenization, Lemmatization, Stop-word removal, Stemming.  
+- **Text Mining**: Frequency analysis, Word clouds, N-gram generation (bigrams, trigrams).  
+- **Keyword Extraction**: Automatic keyword generation using TF-IDF and RAKE algorithms.  
+- **Document Term Matrix**
+
+### 📚 **Bibliometric Analysis Functionalities**
+- **Descriptive Bibliometric Statistics**: Number of publications per year, authorship patterns, journal-level analysis.  
+- **Co-authorship Network Analysis**: Visualization of author collaboration networks.  
+- **Keyword Co-occurrence Analysis**: Identifying and visualizing frequently co-occurring keywords.  
+- **Citation Analysis**: Citation count, H-index, G-index calculation for authors, journals, and articles.  
+- **Bibliographic Coupling and Co-citation Analysis**: Understanding article and author relationships based on citations.  
+- **Thematic Mapping**: Discover research themes and track topic evolution over time.  
+- **Trend Analysis**: Identifying emerging trends and declining research areas.  
+- **Visualization Tools**: Graphical visualization of bibliometric networks using Matplotlib, Seaborn, NetworkX.  
+- **Export Options**: Export data, visualizations, and insights for academic reporting.  
+
+### 🔍 **Meta-Analysis Functionalities**
+- **Effect Size Calculation**: Compute standardized mean differences, odds ratios, risk ratios.  
+- **Forest Plots**: Visualizing individual study effect sizes and combined effect size.  
+- **Funnel Plots**: Detecting publication bias visually.  
+- **Heterogeneity Analysis**: Q-test, I² statistic for assessing study variation.  
+- **Random and Fixed Effects Models**: Comprehensive meta-analysis modeling.  
+- **Moderator Analysis**: Subgroup and meta-regression analysis for moderator effects.  
+- **Sensitivity Analysis**: Robustness checks of meta-analysis results.  
+- **Publication Bias Tests**: Egger’s test, Begg’s test for bias detection.  
+- **Automatic Reporting**: Ready-to-use summary tables, plots, and statistics for publications.  
+- **Advanced Integration**: Extensible to network meta-analysis and multi-level meta-analysis.  
+
+📊 **Note**: These functionalities can be accessed via dedicated menus in **SADSA**, such as:
+- **"Text Analytics"** for NLP tasks.
+- **"Bibliometric Analytics"** for bibliometric studies.
+- **"Meta-Analysis"** for systematic reviews and evidence synthesis.
+
 ---
 
 ## 📈 Output and Reports  
