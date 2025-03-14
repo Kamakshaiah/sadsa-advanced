@@ -33,8 +33,30 @@
 - **Covariance and Correlation** (Pearson, Spearman, Kendall).  
 - **Simple and Multiple Linear Regression**.  
 - **ANOVA and MANOVA** for group mean comparisons.  
-- **Canonical Correlation Analysis (CCA)**: Analyze relationships between two sets of variables.  
+- **Canonical Correlation Analysis (CCA)**: Analyze relationships between two sets of variables.
 
+### 4. **Exploratory Analysis**  
+- **Correspondence Analysis** 
+- **Principla Component Analysis**.  
+- **Multidimensional Scaling**
+- **Exploratory Factor Analysis**
+- **Confirmatory Factor Analysis** - including Mediation Analysis
+
+### 4. **Time Series Analysis**  
+- **Moving Averages** 
+- **Seasonal decomposition/Trend analysis**.  
+- **Exponential Smoothing**
+- **Holtwinter**
+
+### 4. **Machine Learning**  
+- **Logistic Regression** 
+- **Support Vector Machines**.  
+- **Nearest Neighbors**
+- **KNN**
+- **Decision Trees**
+- **Neural Networks**
+- **Random Forests**
+ 
 ---
 
 ## 📈 Output and Reports  
@@ -76,13 +98,7 @@
 
 ## 📜 License  
 
-This project is licensed under the **MIT License**.  
-
----
-
-## 🤝 Contributing  
-
-Contributions are welcome! Please fork the repository and submit a pull request.  
+This project is licensed under **EULA**.  
 
 ---
 
